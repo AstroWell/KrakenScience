@@ -1,0 +1,86 @@
+KrakenScience 1.0 [2020-01-15]
+-------------------------------
+
+	- FX plume fix 
+	- Transparency Fix for all Kraken specimen
+	- Update ISP of the 2 Kraken Engine
+	
+KrakenScience 0.9 [2019-10-19]
+-------------------------------
+
+	- All texture converted to DDS DXT5 for KSP 1.8
+	- Added some missings tags
+
+KrakenScience 0.8 [2018-03-04]
+-------------------------------
+
+	- New K-38 "Jade" Kraken Engine
+	- Bug fix for LittleFrog and ScaraB probe core (wrong orientation after quicksave and reload)
+
+KrakenScience 0.7 [2017-12-20]
+-------------------------------
+
+	- New Resource "KrakenJuice" (Make money with Juice Production) 5000K/Unit
+	- The Kraken Generator is now also a Kraken Juice production unit
+	- New Fuel Tank for Kraken Juice with glowing effect
+	- New Drill for Kraken Juice extraction on Bop
+	- New K-29 "Bentusi" Kraken Engine using Kraken Juice with hight ISP /TurboJet Engine Revamp
+	- Compatibility patch for MechJeb/KIS/Tweakscale
+	- Update for KSP v1.3.1
+
+KrakenScience 0.6 [2017-07-05]
+-------------------------------
+
+	- 2 Strategies for Career (PlushToys and ToyShops)
+	- Ambiant Light for the 2 ScienceRack System
+	- New 3d Model for The Snail Engine
+	- Change Thrust of The Snail Engine (Up to 4)
+
+KrakenScience 0.5 [2016-11-02]
+-------------------------------
+
+	- New Model 3d for ScaRaB Sat
+	- Update of LittleFrog Texture
+	- Change crash tolerance of LittleFrog
+	- Correct Folder name mystake
+
+KrakenScience 0.4 [2016-09-30]
+-------------------------------
+
+	- New 3d Model for many parts!
+	- New science definitions
+	- Replacement of old Parts by many new Kraken Experiment	
+	- Animation for the KrakenScanner
+	- Various update for 1.2 compatibility
+	- Ordering of the folder Update
+	- Licence Update
+
+KrakenScience 0.3 [2016-08-26]
+-------------------------------
+
+	- New 3d Model for the KrakenScanner
+	- New science part "Sample Box"
+	- Ordering of the folder Update
+	- Texture update for the TB-45_Parasol
+	- DDS Conversion of many Textures
+	- Addition of a storage capacity (KIS) for the cardboard box
+
+KrakenScience 0.2 [2016-08-21]
+-------------------------------
+
+	- Eliminating many spelling errors in the Science Reports
+	- New science definitions
+	- New contracts "test"
+	- Reduced battery capacity of ScaRaB
+	- Reduced torque of ScaRaB to improve stability
+	- Add a custom description to each part
+	- increase in the size of the Racks
+	- Texture update for the Biology Experiment
+	- Texture update for the Physiology Experiment
+	- Texture update for the HG300 Survey Camera
+	- Rotation of the preview Model in the VAB
+
+KrakenScience 0.1 [2016-08-17]
+-------------------------------
+
+	- Initial upload
